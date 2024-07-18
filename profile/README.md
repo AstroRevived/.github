@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/AstroWin/.github/main/icon.png"  />
+  <img height="200" src="https://raw.githubusercontent.com/AstroWin/.github/main/logo.png"  />
 </div>
 
 ###
