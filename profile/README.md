@@ -1,37 +1,28 @@
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/AstroWin/.github/main/logo.png"  />
-</div>
 
-###
+<h2 align="center">A transparent and lightweight modification to Windows, designed to optimize performance, privacy and usability.</h2>
 
-<h1 align="center">Introducing AstroOS</h1>
+<p align="center">
+  <a href="https://astrowin.is-a.dev" target="_blank">🌐 Website</a>
+  •
+  <a href="https://dsc.gg/enderdevcom" target="_blank">💬 Discord</a>
+</p>
 
-###
+## What is AstroOS?
+AstroOS is an open-source project that enhances Windows. Optimizations include enhanced privacy, usability, performance, and changes for minimal stutters.
 
-<p align="center">AstroOS is a stripped down version of Windows.</p>
+## Why AstroOS?
+### Privacy
+AstroOS removes the majority of telemetry embedded within Windows and implements numerous group policies to minimize data collection.
 
-###
+### Performance
+AstroOS implements numerous meaningful changes to improve Windows performance and responsiveness without breaking essential features.
 
-<p align="center">https://astrowin.is-a.dev</p>
+### Security
+AstroOS doesn't turn off security features such as Windows Defender and Windows Update.
 
-###
+### Usability
+AstroOS applies many modifications and default settings to make Windows easier to use.
 
-<div align="center">
-  <a href="https://dsc.gg/enderdevcom" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
+### Open source
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="30" alt="bulma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
-
-###
+Unlike custom Windows ISOs, AstroOS is more straightforward to audit due to the use of [AME Wizard](https://ameliorated.io). AME Wizard is controlled by Playbooks, a customizable script-esque system that can perform various tasks.
