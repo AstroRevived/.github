@@ -1,4 +1,4 @@
-<img style="display: block; margin-left: auto; margin-right: auto; width: 30%;" src="https://raw.githubusercontent.com/AstroWin/.github/main/icon.png"  />
+<div style="text-align: center;"><img src="https://raw.githubusercontent.com/AstroWin/.github/main/icon.png"  /></div>
 <h2 align="center">Windows Done correctly, designed to optimize performance, privacy and usability.</h2>
 
 <p align="center">
