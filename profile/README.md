@@ -1,4 +1,4 @@
-
+<img height="200" src="https://raw.githubusercontent.com/AstroWin/.github/main/icon.png"  />
 <h2 align="center">Windows Done correctly, designed to optimize performance, privacy and usability.</h2>
 
 <p align="center">
