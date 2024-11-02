@@ -24,3 +24,6 @@ AstroOS doesn't remove security features like Windows Defender and Windows Updat
 
 ### Open source
 Unlike some Windows mods that use Custom ISOs, AstroOS uses playbooks. This makes AstroOS much better and fully open-source!
+
+# Contribute
+You can contribute to AstroOS by making pull requests on [our repo](https://github.com/AstroWin/AstroOS) or becoming a developer by [clicking here](https://forms.office.com/r/dvi0pZ7cSV) and filling out the form. Make sure you're in [my server](https://dsc.gg/justwinstuff) to get accepted.
