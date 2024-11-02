@@ -1,4 +1,4 @@
-<img align="center">https://raw.githubusercontent.com/AstroWin/.github/refs/heads/main/icon.png</img>
+https://raw.githubusercontent.com/AstroWin/.github/refs/heads/main/icon.png
 <h2 align="center">Windows Done correctly, that fixes most of the problems with Windows.</h2>
 
 <p align="center">
