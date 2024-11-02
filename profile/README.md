@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/AstroWin/.github/refs/heads/main/icon.png"  />
+  <img src="https://raw.githubusercontent.com/AstroWin/.github/refs/heads/main/icon.png"  />
 </div>
 <h2 align="center">Windows Done correctly, that fixes most of the problems with Windows.</h2>
 
