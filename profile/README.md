@@ -10,21 +10,17 @@
 </p>
 
 ## What is AstroOS?
-AstroOS is an open-source project that enhances Windows. Optimizations include enhanced privacy, usability, performance, and changes for minimal stutters.
+AstroOS is an open-source OS, that fixes most of the problems with Windows.
 
-## Why AstroOS?
+## Why you should choose AstroOS?
 ### Privacy
-AstroOS removes the majority of telemetry embedded within Windows and implements numerous group policies to minimize data collection.
+AstroOS removes most of the telemetry in Windows. 
 
 ### Performance
-AstroOS implements numerous meaningful changes to improve Windows performance and responsiveness without breaking essential features.
+AstroOS enhances performance by removing bloat, optimizing your Windows settings and much more.
 
 ### Security
-AstroOS doesn't turn off security features such as Windows Defender and Windows Update.
-
-### Usability
-AstroOS applies many modifications and default settings to make Windows easier to use.
+AstroOS doesn't remove security features like Windows Defender and Windows Update.
 
 ### Open source
-
-Unlike custom Windows ISOs, AstroOS is more straightforward to audit due to the use of [AME Wizard](https://ameliorated.io). AME Wizard is controlled by Playbooks, a customizable script-esque system that can perform various tasks.
+Unlike some Windows mods that use Custom ISOs, AstroOS uses playbooks. This makes AstroOS much better and fully open-source!
