@@ -1,4 +1,4 @@
-<h2 align="center">Windows Done correctly, designed to optimize performance, privacy and usability.</h2>
+<h2 align="center">Windows Done correctly, that fixes most of the problems with Windows.</h2>
 
 <p align="center">
   <a href="https://astrowin.is-a.dev" target="_blank">🌐 Website</a>
